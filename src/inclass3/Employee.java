@@ -16,6 +16,7 @@ public class Employee {
     private double salary;
     private String designation;
     private double bonus = 200;
+    private int num;
     public Employee()
     {
         

@@ -23,7 +23,7 @@ public class InClass3 {
     public static void displayEmployeeInfo(Employee emp)
     {
         if(emp instanceof Employee)
-            return 
+            return ;
     }
     
 }
